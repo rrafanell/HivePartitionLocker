@@ -1,0 +1,7 @@
+.idea/
+**/*.iml
+**/target/
+**/gen-java/
+**/*.avro
+adnetwork/wurfl.xml
+/data/

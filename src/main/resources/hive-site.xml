@@ -1,0 +1,8 @@
+  <configuration>
+    
+    <property>
+      <name>hive.metastore.uris</name>
+      <value>thrift://hdm01.billydomain.com:9083,thrift://hdm02.billydomain.com:9083,thrift://hdm03.billydomain.com:9083</value>
+    </property>
+    
+  </configuration>
